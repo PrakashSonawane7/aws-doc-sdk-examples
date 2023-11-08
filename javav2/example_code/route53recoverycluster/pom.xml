@@ -45,7 +45,7 @@
         <dependency>
             <groupId>software.amazon.awscdk</groupId>
             <artifactId>route53recoverycontrol</artifactId>
-            <version>1.128.0</version>
+            <version>1.204.0</version>
         </dependency>
     </dependencies>
     <build>
